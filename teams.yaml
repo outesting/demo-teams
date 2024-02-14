@@ -16,13 +16,6 @@ metadata:
   description: List of teams as found
 spec:
   targets:
-    - ./teams/Team-integrations.yaml
-    - ./teams/Team-cio-office.yaml
-    - ./teams/Team-crm.yaml
-    - ./teams/Team-dataengineering.yaml
-    - ./teams/Team-digitalmarketing.yaml
-    - ./teams/Team-finance.yaml
-    - ./teams/Team-asset-management.yaml
-    - ./teams/Team-it-operations.yaml
-    - ./teams/Team-quality.yaml
-    - ./teams/Team-techdev.yaml
+    - ./teams/admin.yaml
+    - ./teams/spiderman.yaml
+    - ./teams/batman.yaml

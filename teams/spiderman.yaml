@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: default/spiderman
+  description: Group of your local Peter Parkers
+spec:
+  type: team
+  profile:
+    displayName: spiderman
+  children: []

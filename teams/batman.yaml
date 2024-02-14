@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: integrations
-  description: integrations
+  name: default/batman
+  description: Bruce Wayne and pals
 spec:
   type: team
   profile:
-    displayName: integrations
+    displayName: batman
   children: []
