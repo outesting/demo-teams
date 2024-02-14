@@ -1,15 +1,4 @@
 apiVersion: backstage.io/v1alpha1
-kind: Group
-metadata:
-  name: acme
-  description: acme
-spec:
-  type: organization
-  profile:
-    displayName: acme
-  children: []
----
-apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
   name: Teams
