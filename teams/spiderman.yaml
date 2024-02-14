@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
   name: spiderman
+  namespace: default
   description: Group of your local Peter Parkers
 spec:
   type: team

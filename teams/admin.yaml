@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
   name: admin
+  namespace: default
   description: Backstage administrator group
 spec:
   type: team
